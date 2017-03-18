@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+#ball{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	border: 1px solid red;
+	border-radius: 50px;
+	position: fixed;
+	top: 50vh;
+	left: 50%;
+}
